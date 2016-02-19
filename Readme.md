@@ -1,3 +1,6 @@
+This is a fork of the original project by Thom Seddon.
+The changes here cover use cases where OAuth client secret might not be appropriate.
+
 # Node OAuth2 Server [![Build Status](https://travis-ci.org/thomseddon/node-oauth2-server.png?branch=2.0)](https://travis-ci.org/thomseddon/node-oauth2-server)
 
 Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](http://expressjs.com/) in [node.js](http://nodejs.org/)
